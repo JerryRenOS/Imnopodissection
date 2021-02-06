@@ -6,7 +6,7 @@
 //
 
 public protocol MapperProtocolNavigatorModule {
-
+    func mappa(_ rootedview: SerialUniversalBoomNaviata.RootedView) -> PathStation
 }
 
 public struct PathStation {

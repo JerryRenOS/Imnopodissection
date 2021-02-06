@@ -14,3 +14,4 @@ public enum NaviType {
     case heada
     case maine
 }
+                      
