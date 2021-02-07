@@ -18,6 +18,10 @@ public class SerialUniversalBoomNaviata {
     }
     
     public func resettingNaviataStockholm(with rootedView: RootedView, payload: [String: Any]? = nil, completion: (() -> Void)? = nil) {
+        let mappa = delegate?.mappa(rootedView)
+        let bundleName = mappa?.stationBundleName
+        let module = mappa?.stationModule ?? ""
+        let screen = mappa?.stationScreen ?? ""
         
     }
 }
