@@ -8,8 +8,16 @@
 import Foundation
 
 public class SerialUniversalBoomNaviata {
+    
+    public var delegate: MapperProtocolNaviataModule?
+    public static let sharedInstance = SerialUniversalBoomNaviata.init()
+    
     public enum RootedView {
         case bmci
         case othercrap
+    }
+    
+    public func resettingNaviataStockholm(with rootedView: RootedView, payload: [String: Any]? = nil, completion: (() -> Void)? = nil) {
+        
     }
 }
