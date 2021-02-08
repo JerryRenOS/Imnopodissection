@@ -5,7 +5,7 @@
 //  Created by Jerry Ren on 2/5/21.
 //
 
-public protocol MapperProtocolNaviataModule {
+public protocol MapperProtocolNavigatorModule {
     func mappa(_ rootedview: SerialUniversalBoomNaviata.RootedView) -> PathStation
 }
 
