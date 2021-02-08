@@ -14,7 +14,6 @@
 		8F1C5E5B25CCA9A2001F5C74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F1C5E5925CCA9A2001F5C74 /* LaunchScreen.storyboard */; };
 		8F1C5E6725CCAC49001F5C74 /* PathStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1C5E6625CCAC49001F5C74 /* PathStation.swift */; };
 		8F1C5E6A25CCAF69001F5C74 /* MeinyuAtem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1C5E6925CCAF69001F5C74 /* MeinyuAtem.swift */; };
-		8F4D044B25CF9D6E00FF934B /* StockBroker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4D044A25CF9D6E00FF934B /* StockBroker.swift */; };
 		8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		8F1C5E5C25CCA9A2001F5C74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F1C5E6625CCAC49001F5C74 /* PathStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathStation.swift; sourceTree = "<group>"; };
 		8F1C5E6925CCAF69001F5C74 /* MeinyuAtem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeinyuAtem.swift; sourceTree = "<group>"; };
-		8F4D044A25CF9D6E00FF934B /* StockBroker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockBroker.swift; sourceTree = "<group>"; };
 		8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialUniversalBoomNaviata.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,7 +65,6 @@
 				8F1C5E6625CCAC49001F5C74 /* PathStation.swift */,
 				8F1C5E6925CCAF69001F5C74 /* MeinyuAtem.swift */,
 				8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */,
-				8F4D044A25CF9D6E00FF934B /* StockBroker.swift */,
 				8F1C5E5425CCA99E001F5C74 /* Main.storyboard */,
 				8F1C5E5725CCA9A2001F5C74 /* Assets.xcassets */,
 				8F1C5E5925CCA9A2001F5C74 /* LaunchScreen.storyboard */,
@@ -149,7 +146,6 @@
 				8F1C5E6725CCAC49001F5C74 /* PathStation.swift in Sources */,
 				8F1C5E6A25CCAF69001F5C74 /* MeinyuAtem.swift in Sources */,
 				8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */,
-				8F4D044B25CF9D6E00FF934B /* StockBroker.swift in Sources */,
 				8F1C5E4F25CCA99E001F5C74 /* AppDelegate.swift in Sources */,
 				8F1C5E5125CCA99E001F5C74 /* SceneDelegate.swift in Sources */,
 			);
