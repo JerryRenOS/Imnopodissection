@@ -7,10 +7,11 @@
 
 import Foundation
 
-@objc public protocol StockBroker: class {
-    var payload: [String: Any]? { get set }
-    @objc optional func callbackNaviata(result: AnyObject?) // anyobject minus object
+@objc public protocol StockBroker: AnyObject {
+    var payload: [String: Any]? { get }
+    @objc optional func callbackNaviata(result: Any?) // anyobject minus object
     @objc optional func transioningCustomized()
 }
  
   
+ 
