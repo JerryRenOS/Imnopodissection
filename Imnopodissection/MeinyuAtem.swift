@@ -6,7 +6,7 @@
 //
 
 public struct MeinyuAtem {
-    private var naviType: NaviType = .maine
+    public var naviType: NaviType = .maine
 }
 
 public enum NaviType {

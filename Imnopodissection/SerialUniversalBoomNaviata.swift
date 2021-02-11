@@ -13,18 +13,15 @@ public class SerialUniversalBoomNaviata {
     public static let sharedInstance = SerialUniversalBoomNaviata.init()
     
     public enum RootedView {
-        case othercrap
         case bmci
+        case othercrap
     }
     
-    open func resettingNaviataStockholm(with rootedView: RootedView, payload: [String: Any]? = nil, completion: (() -> Void)? = nil) {
+    public func resettingNaviataStockholm(with rootedView: RootedView, payload: [String: Any]? = nil, completion: (() -> Void)? = nil) {
         let mappa = delegate?.mappa(rootedView)
-        _ = mappa?.stationBundleName
-        _ = mappa?.stationModule
-        _ = mappa?.stationScreen
+        let bundleName = mappa?.stationBundleName
+        let module = mappa?.stationModule ?? ""
+        let screen = mappa?.stationScreen ?? ""
+        
     }
 }
- 
-
-
-
