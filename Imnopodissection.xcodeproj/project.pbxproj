@@ -18,6 +18,7 @@
 		8F77B04C25D5CF8400743F35 /* NaviataTourGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F77B04B25D5CF8400743F35 /* NaviataTourGuide.swift */; };
 		8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */; };
 		8F89CC7525DEE33600755C45 /* JsonWebTokenDecodo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F89CC7425DEE33600755C45 /* JsonWebTokenDecodo.swift */; };
+		8F89CC7825DF274800755C45 /* TransmissionSDKConfiguragio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		8F77B04B25D5CF8400743F35 /* NaviataTourGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaviataTourGuide.swift; sourceTree = "<group>"; };
 		8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialUniversalBoomNaviata.swift; sourceTree = "<group>"; };
 		8F89CC7425DEE33600755C45 /* JsonWebTokenDecodo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonWebTokenDecodo.swift; sourceTree = "<group>"; };
+		8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionSDKConfiguragio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				8F4D044A25CF9D6E00FF934B /* StockBroker.swift */,
 				8F77B04B25D5CF8400743F35 /* NaviataTourGuide.swift */,
 				8F89CC7425DEE33600755C45 /* JsonWebTokenDecodo.swift */,
+				8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */,
 				8F1C5E5425CCA99E001F5C74 /* Main.storyboard */,
 				8F1C5E5725CCA9A2001F5C74 /* Assets.xcassets */,
 				8F1C5E5925CCA9A2001F5C74 /* LaunchScreen.storyboard */,
@@ -154,6 +157,7 @@
 			files = (
 				8F77B04C25D5CF8400743F35 /* NaviataTourGuide.swift in Sources */,
 				8F1C5E6725CCAC49001F5C74 /* PathStation.swift in Sources */,
+				8F89CC7825DF274800755C45 /* TransmissionSDKConfiguragio.swift in Sources */,
 				8F89CC7525DEE33600755C45 /* JsonWebTokenDecodo.swift in Sources */,
 				8F1C5E6A25CCAF69001F5C74 /* MeinyuAtem.swift in Sources */,
 				8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */,
