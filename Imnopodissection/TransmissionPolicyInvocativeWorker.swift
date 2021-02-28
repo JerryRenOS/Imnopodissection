@@ -44,36 +44,17 @@ public class TransmissionPolicyInvocativeWorker {
         return params
     }
     
-    public func addingIovationDataTo(policyParams: [AnyHashable: Any]? = nil, forPolicy policyId: TransmissionPolicy) -> [AnyHashable: Any] {
-        
-        var totalParams = [AnyHashable: Any]()
-        
-        if let policyParams = policyParams {
-            totalParams.merge(policyParams) { (_, new) -> Any in
-                new
-            }
-        }
-        
-        if let blackboxData = DeviceInfo.blackBox(policyId: policyId) {
-            totalParams[TransmissionConstants.DictionaryKeys.blackBoxData] = blackboxData
-            // Tdd-ish (red green refactor)
-        }
-        
-        return totalParams
-    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
-    
-//  separate into another file later
-    
-    public struct DeviceInfo {
-        
-    }
-    
-    public extension DeviceInfo {
-        static func blackBox(policyId: TransmissionPolicy?) -> String? {
-            // fill blanks later
-            return String.init()
-        }
-    }
-    
-
