@@ -17,6 +17,7 @@
 		8F23D41D25E094A4001722DE /* InvocativePolicyProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F23D41C25E094A4001722DE /* InvocativePolicyProperties.swift */; };
 		8F4D044B25CF9D6E00FF934B /* StockBroker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4D044A25CF9D6E00FF934B /* StockBroker.swift */; };
 		8F77B04C25D5CF8400743F35 /* NaviataTourGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F77B04B25D5CF8400743F35 /* NaviataTourGuide.swift */; };
+		8F791DAF25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F791DAE25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift */; };
 		8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */; };
 		8F89CC7525DEE33600755C45 /* JsonWebTokenDecodo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F89CC7425DEE33600755C45 /* JsonWebTokenDecodo.swift */; };
 		8F89CC7825DF274800755C45 /* TransmissionSDKConfiguragio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */; };
@@ -35,6 +36,7 @@
 		8F23D41C25E094A4001722DE /* InvocativePolicyProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvocativePolicyProperties.swift; sourceTree = "<group>"; };
 		8F4D044A25CF9D6E00FF934B /* StockBroker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockBroker.swift; sourceTree = "<group>"; };
 		8F77B04B25D5CF8400743F35 /* NaviataTourGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaviataTourGuide.swift; sourceTree = "<group>"; };
+		8F791DAE25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionPolicyInvocativeWorker.swift; sourceTree = "<group>"; };
 		8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialUniversalBoomNaviata.swift; sourceTree = "<group>"; };
 		8F89CC7425DEE33600755C45 /* JsonWebTokenDecodo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonWebTokenDecodo.swift; sourceTree = "<group>"; };
 		8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionSDKConfiguragio.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				8F89CC7425DEE33600755C45 /* JsonWebTokenDecodo.swift */,
 				8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */,
 				8F23D41C25E094A4001722DE /* InvocativePolicyProperties.swift */,
+				8F791DAE25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift */,
 				8F1C5E5425CCA99E001F5C74 /* Main.storyboard */,
 				8F1C5E5725CCA9A2001F5C74 /* Assets.xcassets */,
 				8F1C5E5925CCA9A2001F5C74 /* LaunchScreen.storyboard */,
@@ -160,6 +163,7 @@
 			files = (
 				8F77B04C25D5CF8400743F35 /* NaviataTourGuide.swift in Sources */,
 				8F1C5E6725CCAC49001F5C74 /* PathStation.swift in Sources */,
+				8F791DAF25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift in Sources */,
 				8F23D41D25E094A4001722DE /* InvocativePolicyProperties.swift in Sources */,
 				8F89CC7825DF274800755C45 /* TransmissionSDKConfiguragio.swift in Sources */,
 				8F89CC7525DEE33600755C45 /* JsonWebTokenDecodo.swift in Sources */,
