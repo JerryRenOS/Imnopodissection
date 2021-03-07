@@ -69,7 +69,7 @@ public class TransmissionPolicyInvocativeWorker {
         
     }
     
- public extension DeviceInfo {
+    public extension DeviceInfo {
         static func blackBox(policyId: TransmissionPolicy?) -> String? {
             // fill blanks later
             return String.init()
