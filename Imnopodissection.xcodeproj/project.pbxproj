@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F1B60AB25F9CA0F00F72ABA /* TransmissionResponseHandlerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1B60AA25F9CA0F00F72ABA /* TransmissionResponseHandlerProtocol.swift */; };
 		8F1C5E4F25CCA99E001F5C74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1C5E4E25CCA99E001F5C74 /* AppDelegate.swift */; };
 		8F1C5E5125CCA99E001F5C74 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1C5E5025CCA99E001F5C74 /* SceneDelegate.swift */; };
 		8F1C5E5625CCA99E001F5C74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F1C5E5425CCA99E001F5C74 /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F1B60AA25F9CA0F00F72ABA /* TransmissionResponseHandlerProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionResponseHandlerProtocol.swift; sourceTree = "<group>"; };
 		8F1C5E4B25CCA99E001F5C74 /* Imnopodissection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Imnopodissection.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F1C5E4E25CCA99E001F5C74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8F1C5E5025CCA99E001F5C74 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				8F791DAE25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift */,
 				8FD9ED1E25EF47FE001C22A1 /* TransmissionConstants.swift */,
 				8F23D41C25E094A4001722DE /* InvocativePolicyProperties.swift */,
+				8F1B60AA25F9CA0F00F72ABA /* TransmissionResponseHandlerProtocol.swift */,
 				8F1C5E5425CCA99E001F5C74 /* Main.storyboard */,
 				8F1C5E5725CCA9A2001F5C74 /* Assets.xcassets */,
 				8F1C5E5925CCA9A2001F5C74 /* LaunchScreen.storyboard */,
@@ -174,6 +177,7 @@
 				8F1C5E6A25CCAF69001F5C74 /* MeinyuAtem.swift in Sources */,
 				8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */,
 				8F4D044B25CF9D6E00FF934B /* StockBroker.swift in Sources */,
+				8F1B60AB25F9CA0F00F72ABA /* TransmissionResponseHandlerProtocol.swift in Sources */,
 				8F1C5E4F25CCA99E001F5C74 /* AppDelegate.swift in Sources */,
 				8F1C5E5125CCA99E001F5C74 /* SceneDelegate.swift in Sources */,
 			);

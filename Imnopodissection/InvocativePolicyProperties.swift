@@ -27,6 +27,5 @@ public enum TransmissionPolicy: String {
     // etc.
 }
 
-public protocol TransmissionResponseHandler {
-    
-}
+
+

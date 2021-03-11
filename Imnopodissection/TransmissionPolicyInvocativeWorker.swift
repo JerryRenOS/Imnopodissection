@@ -7,10 +7,6 @@
 
 import Foundation
 
-public class TSXAuthenticationResult: NSObject {
-    // should be an @interface, but 先做做样子
-}
-
 public enum TransmissionSdkErro: Error {
     
 }
