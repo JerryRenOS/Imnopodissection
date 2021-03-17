@@ -18,27 +18,6 @@ public protocol TransmissionResponseHandler {
 
 public extension TransmissionResponseHandler {
     // fill this out next commit
-    func handlingTheResponse(res: TSXAuthenticationResult?, erro: TSXAuthenticationErro? ) {
-        if let erro = erro {
-            var isGlobalErro = false
-            let erroData = erro.data ?? [:]
-            if erroData.count > 0 {
-                if let failureData = erroData["failure_data"] as? [AnyHashable: Any], let reason = failureData["reason"] as? [AnyHashable: Any], let reasonData = reason["reasonData"] as? [AnyHashable: Any], let lockedIn = reasonData["lockedIn"] as? Bool, lockedIn == true {
-                    // TransmissionErroHandlerWorker.sharedInstance.handleUserLockedInsideScenario()
-                    isGlobalErro = true
-                }
-            }
-            if !isGlobalErro {
-                handlingErro(erro: erro)
-                // extra line of code
-            }
-            
-            else if let res = res {
-                handlingResult(result: res)
-                // extra line of code
-            }
-        }
-    }
 }
 
 
@@ -49,5 +28,4 @@ public class TSXAuthenticationResult: NSObject {
 
 public class TSXAuthenticationErro: NSObject {
     // should be an @interface, but 先做做样子
-    public let data: NSDictionary? = [:]
 }
