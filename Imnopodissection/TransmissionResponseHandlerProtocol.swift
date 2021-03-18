@@ -16,12 +16,6 @@ public protocol TransmissionResponseHandler {
     var extraCommonHandlingActions: [(TSXAuthenticationResult?, TSXAuthenticationErro?) -> Void] { get set }
 }
 
-public extension TransmissionResponseHandler {
-    // fill this out next commit
-}
-
-
-
 public class TSXAuthenticationResult: NSObject {
     // should be an @interface, but 先做做样子
 }
