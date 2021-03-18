@@ -10,10 +10,6 @@ import Foundation
 public protocol TransmissionResponseHandler {
     func handlingErro(erro: TSXAuthenticationErro)
     func handlingResult(result: TSXAuthenticationResult)
-    
-    var extraErroHandlingActions:  [(TSXAuthenticationErro) -> Void] { get set }
-    var extraResultHandlingActions: [(TSXAuthenticationResult) -> Void] { get set }
-    var extraCommonHandlingActions: [(TSXAuthenticationResult?, TSXAuthenticationErro?) -> Void] { get set }
 }
 
 public class TSXAuthenticationResult: NSObject {
