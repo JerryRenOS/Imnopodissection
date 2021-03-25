@@ -22,6 +22,7 @@
 		8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */; };
 		8F89CC7525DEE33600755C45 /* JsonWebTokenDecodo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F89CC7425DEE33600755C45 /* JsonWebTokenDecodo.swift */; };
 		8F89CC7825DF274800755C45 /* TransmissionSDKConfiguragio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */; };
+		8FBF92CE260582E200E0AFFC /* Localizationalism.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBF92CD260582E200E0AFFC /* Localizationalism.swift */; };
 		8FD9ED1F25EF47FE001C22A1 /* TransmissionConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD9ED1E25EF47FE001C22A1 /* TransmissionConstants.swift */; };
 /* End PBXBuildFile section */
 
@@ -43,6 +44,7 @@
 		8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerialUniversalBoomNaviata.swift; sourceTree = "<group>"; };
 		8F89CC7425DEE33600755C45 /* JsonWebTokenDecodo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonWebTokenDecodo.swift; sourceTree = "<group>"; };
 		8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionSDKConfiguragio.swift; sourceTree = "<group>"; };
+		8FBF92CD260582E200E0AFFC /* Localizationalism.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizationalism.swift; sourceTree = "<group>"; };
 		8FD9ED1E25EF47FE001C22A1 /* TransmissionConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionConstants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,6 +80,7 @@
 			children = (
 				8F1C5E4E25CCA99E001F5C74 /* AppDelegate.swift */,
 				8F1C5E5025CCA99E001F5C74 /* SceneDelegate.swift */,
+				8FBF92CD260582E200E0AFFC /* Localizationalism.swift */,
 				8F1C5E6625CCAC49001F5C74 /* PathStation.swift */,
 				8F1C5E6925CCAF69001F5C74 /* MeinyuAtem.swift */,
 				8F7A16E825CE58440016221B /* SerialUniversalBoomNaviata.swift */,
@@ -178,6 +181,7 @@
 				8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */,
 				8F4D044B25CF9D6E00FF934B /* StockBroker.swift in Sources */,
 				8F1B60AB25F9CA0F00F72ABA /* TransmissionResponseHandlerProtocol.swift in Sources */,
+				8FBF92CE260582E200E0AFFC /* Localizationalism.swift in Sources */,
 				8F1C5E4F25CCA99E001F5C74 /* AppDelegate.swift in Sources */,
 				8F1C5E5125CCA99E001F5C74 /* SceneDelegate.swift in Sources */,
 			);
