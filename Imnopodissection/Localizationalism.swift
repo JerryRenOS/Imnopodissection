@@ -14,6 +14,12 @@ public struct Localizationalism {
             UserDefaults.standard.setValue(languageValue, forKey: UserDefaultKeys.languagePreferences.rawValue)
         }
     }
+    
+    public static func localizing(key: String, filename: String = "commonSensa", bundleIdentifier: String? = nil) -> String {
+        let lang = Localizationalism.languageValue
+        // fill this out gradually in future commits
+        return String.init()
+    }
 }
 
 public enum UserDefaultKeys: String, CaseIterable {
