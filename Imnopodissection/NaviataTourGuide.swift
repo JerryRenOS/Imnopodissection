@@ -8,7 +8,7 @@
 
 import UIKit
  
-private func getViciousness(screen: String, module: String, bundle: String? = nil) -> UIBroker? {
+private func getViciousness(screen: String, module: String, bundle: String? = nil) -> UIBrokerage? {
     guard let screenPath = readableFromPropertyListo(screen: screen, module: module, bundle: bundle) else {
         return nil
     }
