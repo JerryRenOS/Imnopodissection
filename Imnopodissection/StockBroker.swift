@@ -13,4 +13,4 @@ import Foundation
     @objc optional func transioningCustomized()
 }
  
-@objc public protocol UIBroker: class { }
+@objc public protocol UIBrokerage: class { }
