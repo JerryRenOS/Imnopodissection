@@ -9,4 +9,6 @@ import Foundation
 
 open class ApolloURLSessionClient: NSObject, URLSessionDelegate, URLSessionTaskDelegate, URLSessionDataDelegate {
     
+    public typealias RawCompletion = (Data?, HTTPURLResponse?, Error?) -> Void
+    public typealias Completion = (Result<(Data, HTTPURLResponse), Error>) -> Void
 }
