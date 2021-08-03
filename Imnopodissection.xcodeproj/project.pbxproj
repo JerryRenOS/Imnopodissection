@@ -16,6 +16,7 @@
 		8F1C5E6725CCAC49001F5C74 /* PathStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1C5E6625CCAC49001F5C74 /* PathStation.swift */; };
 		8F1C5E6A25CCAF69001F5C74 /* MeinyuAtem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1C5E6925CCAF69001F5C74 /* MeinyuAtem.swift */; };
 		8F23D41D25E094A4001722DE /* InvocativePolicyProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F23D41C25E094A4001722DE /* InvocativePolicyProperties.swift */; };
+		8F349EFB26B8EC840071EAE2 /* ApolloPodoro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F349EFA26B8EC840071EAE2 /* ApolloPodoro.swift */; };
 		8F4D044B25CF9D6E00FF934B /* StockBroker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4D044A25CF9D6E00FF934B /* StockBroker.swift */; };
 		8F77B04C25D5CF8400743F35 /* NaviataTourGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F77B04B25D5CF8400743F35 /* NaviataTourGuide.swift */; };
 		8F791DAF25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F791DAE25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift */; };
@@ -38,6 +39,7 @@
 		8F1C5E6625CCAC49001F5C74 /* PathStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathStation.swift; sourceTree = "<group>"; };
 		8F1C5E6925CCAF69001F5C74 /* MeinyuAtem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeinyuAtem.swift; sourceTree = "<group>"; };
 		8F23D41C25E094A4001722DE /* InvocativePolicyProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvocativePolicyProperties.swift; sourceTree = "<group>"; };
+		8F349EFA26B8EC840071EAE2 /* ApolloPodoro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApolloPodoro.swift; sourceTree = "<group>"; };
 		8F4D044A25CF9D6E00FF934B /* StockBroker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockBroker.swift; sourceTree = "<group>"; };
 		8F77B04B25D5CF8400743F35 /* NaviataTourGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaviataTourGuide.swift; sourceTree = "<group>"; };
 		8F791DAE25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionPolicyInvocativeWorker.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				8FD9ED1E25EF47FE001C22A1 /* TransmissionConstants.swift */,
 				8F23D41C25E094A4001722DE /* InvocativePolicyProperties.swift */,
 				8F1B60AA25F9CA0F00F72ABA /* TransmissionResponseHandlerProtocol.swift */,
+				8F349EFA26B8EC840071EAE2 /* ApolloPodoro.swift */,
 				8F1C5E5425CCA99E001F5C74 /* Main.storyboard */,
 				8F1C5E5725CCA9A2001F5C74 /* Assets.xcassets */,
 				8F1C5E5925CCA9A2001F5C74 /* LaunchScreen.storyboard */,
@@ -178,6 +181,7 @@
 				8FD9ED1F25EF47FE001C22A1 /* TransmissionConstants.swift in Sources */,
 				8F89CC7525DEE33600755C45 /* JsonWebTokenDecodo.swift in Sources */,
 				8F1C5E6A25CCAF69001F5C74 /* MeinyuAtem.swift in Sources */,
+				8F349EFB26B8EC840071EAE2 /* ApolloPodoro.swift in Sources */,
 				8F7A16E925CE58440016221B /* SerialUniversalBoomNaviata.swift in Sources */,
 				8F4D044B25CF9D6E00FF934B /* StockBroker.swift in Sources */,
 				8F1B60AB25F9CA0F00F72ABA /* TransmissionResponseHandlerProtocol.swift in Sources */,
