@@ -25,6 +25,7 @@
 		8F89CC7825DF274800755C45 /* TransmissionSDKConfiguragio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */; };
 		8FBF92CE260582E200E0AFFC /* Localizationalism.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBF92CD260582E200E0AFFC /* Localizationalism.swift */; };
 		8FD9ED1F25EF47FE001C22A1 /* TransmissionConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD9ED1E25EF47FE001C22A1 /* TransmissionConstants.swift */; };
+		8FEE2D4A2B62A851005803AF /* BiometricalFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FEE2D492B62A851005803AF /* BiometricalFlow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionSDKConfiguragio.swift; sourceTree = "<group>"; };
 		8FBF92CD260582E200E0AFFC /* Localizationalism.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizationalism.swift; sourceTree = "<group>"; };
 		8FD9ED1E25EF47FE001C22A1 /* TransmissionConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransmissionConstants.swift; sourceTree = "<group>"; };
+		8FEE2D492B62A851005803AF /* BiometricalFlow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BiometricalFlow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 		8F1C5E4D25CCA99E001F5C74 /* Imnopodissection */ = {
 			isa = PBXGroup;
 			children = (
+				8FEE2D492B62A851005803AF /* BiometricalFlow.swift */,
 				8F89CC7725DF274800755C45 /* TransmissionSDKConfiguragio.swift */,
 				8F791DAE25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift */,
 				8FD9ED1E25EF47FE001C22A1 /* TransmissionConstants.swift */,
@@ -184,6 +187,7 @@
 				8F77B04C25D5CF8400743F35 /* NaviataTourGuide.swift in Sources */,
 				8F1C5E6725CCAC49001F5C74 /* PathStation.swift in Sources */,
 				8F791DAF25E73DD800C12BF7 /* TransmissionPolicyInvocativeWorker.swift in Sources */,
+				8FEE2D4A2B62A851005803AF /* BiometricalFlow.swift in Sources */,
 				8F23D41D25E094A4001722DE /* InvocativePolicyProperties.swift in Sources */,
 				8F89CC7825DF274800755C45 /* TransmissionSDKConfiguragio.swift in Sources */,
 				8FD9ED1F25EF47FE001C22A1 /* TransmissionConstants.swift in Sources */,
